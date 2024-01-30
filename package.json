@@ -1,0 +1,34 @@
+{
+  "name": "mergeImages",
+  "version": "3.1.0",
+  "description": "Get the streaming url's from yt & dm",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhanuagarwal73/mergeImages.git"
+  },
+  "keywords": [
+    "yt-dm-stream-url",
+    "youtube",
+    "stream",
+    "dailymotion",
+    "hungama",
+    "m3u8",
+    "live"
+  ],
+  "author": "bhanuagarwal73 (bhanuagarwal73@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhanuagarwal73/mergeImages/issues"
+  },
+  "homepage": "https://github.com/bhanuagarwal73/mergeImages#readme",
+  "devDependencies": {
+    "canvas": "^2.11.2",
+    "ts-node": "^10.9.2",
+    "tsc": "^2.0.4",
+    "typescript": "^5.3.3"
+  }
+}
