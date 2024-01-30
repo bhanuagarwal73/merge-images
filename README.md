@@ -14,7 +14,7 @@ import mergeImages from 'merge-images-typescript';
 
 const outputImagePath = 'target/mergedImage.png';   // your output image name & directory
 const list = ['image1.png', 'image2.png', 'image3.png'];    // list of images
-await this.mergeImagesVertically(list, outputImagePath)
+await new MergeImages().mergeImagesVertically(list, outputImagePath)
     .then(() => console.log('Images merged successfully'))
     .catch((err) => console.error('Error:', err));
 ```
