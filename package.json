@@ -3,6 +3,7 @@
   "version": "1.0.3",
   "description": "Get the streaming url's from yt & dm",
   "main": "src/index.ts",
+  "type": "commonjs",
   "scripts": {
     "test": "ts-node src/index.ts"
   },
