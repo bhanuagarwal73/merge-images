@@ -1,5 +1,5 @@
 {
-  "name": "merge-images",
+  "name": "merge-images-typescript",
   "version": "1.0.0",
   "description": "Get the streaming url's from yt & dm",
   "main": "src/index.ts",
@@ -11,13 +11,9 @@
     "url": "git+https://github.com/bhanuagarwal73/merge-images.git"
   },
   "keywords": [
-    "yt-dm-stream-url",
-    "youtube",
-    "stream",
-    "dailymotion",
-    "hungama",
-    "m3u8",
-    "live"
+    "merge-images",
+    "mrge multiple images",
+    "multiple images into single image"
   ],
   "author": "bhanuagarwal73 (bhanuagarwal73@gmail.com)",
   "license": "ISC",

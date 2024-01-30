@@ -4,13 +4,13 @@
 ## Installation
 [Node.js](https://nodejs.org/en/) required
 ```bash
-npm install yt-dm-stream-url
+npm install merge-images-typescript
 ```
 
 ## Usage
 
 ```js
-import yt from 'yt-dm-stream-url';
+import yt from 'merge-images-typescript';
 
 const outputImagePath = 'target/mergedImage.png';   // your output image name & directory
 const list = ['image1.png', 'image2.png', 'image3.png'];    // list of images
