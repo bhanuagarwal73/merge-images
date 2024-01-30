@@ -1,4 +1,4 @@
-# yt-dm-stream-url
+# merge-images
 >  Node project to merge the multiple images into single image
 
 ## Installation
