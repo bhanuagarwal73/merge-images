@@ -1,9 +1,8 @@
 {
   "name": "merge-images-typescript",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Get the streaming url's from yt & dm",
   "main": "src/index.ts",
-  "type": "commonjs",
   "scripts": {
     "test": "ts-node src/index.ts"
   },

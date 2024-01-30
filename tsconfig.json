@@ -4,7 +4,8 @@
     "types": [
       "node"
     ],
-    "target": "ES6",
+    "target": "ESNext",
+    "module": "CommonJS",
     "moduleResolution": "Node",
     "downlevelIteration": true,
     "skipLibCheck": true
