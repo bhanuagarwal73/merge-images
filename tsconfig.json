@@ -5,6 +5,7 @@
       "node"
     ],
     "target": "ESNext",
+    "module": "ESNext",
     "moduleResolution": "Node",
     "downlevelIteration": true,
     "skipLibCheck": true

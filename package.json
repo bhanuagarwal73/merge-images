@@ -2,9 +2,10 @@
   "name": "merge-images-typescript",
   "version": "1.1.1",
   "description": "Merge the multiple images into single image",
-  "main": "src/index.ts",
+  "main": "src/index.js",
+  "type": "commonjs",
   "scripts": {
-    "test": "ts-node src/index.ts"
+    "test": "tsc src/index.ts"
   },
   "repository": {
     "type": "git",
@@ -23,8 +24,6 @@
   "homepage": "https://github.com/bhanuagarwal73/merge-images#readme",
   "devDependencies": {
     "canvas": "^2.11.2",
-    "ts-node": "^10.9.2",
-    "tsc": "^2.0.4",
-    "typescript": "^5.3.3"
+    "ts-node": "^10.9.2"
   }
 }
