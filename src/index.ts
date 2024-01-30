@@ -1,4 +1,4 @@
-import fs from 'fs';
+import * as fs from 'fs';
 import { createCanvas, loadImage } from 'canvas';
 
 export default class MergeImages {

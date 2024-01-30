@@ -1,14 +1,14 @@
 {
-  "name": "mergeImages",
+  "name": "merge-images",
   "version": "3.1.0",
   "description": "Get the streaming url's from yt & dm",
-  "main": "src/index.js",
+  "main": "src/index.ts",
   "scripts": {
-    "test": "node src/index.js"
+    "test": "ts-node src/index.ts"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bhanuagarwal73/mergeImages.git"
+    "url": "git+https://github.com/bhanuagarwal73/merge-images.git"
   },
   "keywords": [
     "yt-dm-stream-url",
@@ -22,9 +22,9 @@
   "author": "bhanuagarwal73 (bhanuagarwal73@gmail.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bhanuagarwal73/mergeImages/issues"
+    "url": "https://github.com/bhanuagarwal73/merge-images/issues"
   },
-  "homepage": "https://github.com/bhanuagarwal73/mergeImages#readme",
+  "homepage": "https://github.com/bhanuagarwal73/merge-images#readme",
   "devDependencies": {
     "canvas": "^2.11.2",
     "ts-node": "^10.9.2",
