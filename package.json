@@ -1,6 +1,6 @@
 {
   "name": "merge-images",
-  "version": "3.1.0",
+  "version": "1.0.0",
   "description": "Get the streaming url's from yt & dm",
   "main": "src/index.ts",
   "scripts": {
