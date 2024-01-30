@@ -1,5 +1,5 @@
 # yt-dm-stream-url
->  Node project to get the live m3u8 streaming links from youtube & dailymotion
+>  Node project to merge the multiple images into single image
 
 ## Installation
 [Node.js](https://nodejs.org/en/) required
