@@ -1,6 +1,6 @@
 {
   "name": "merge-images-typescript",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Merge the multiple images into single image",
   "main": "src/index.js",
   "type": "commonjs",
